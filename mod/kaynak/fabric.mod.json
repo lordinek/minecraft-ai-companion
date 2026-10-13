@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "kole_komut",
+  "version": "1.0.0",
+  "name": "Köle Komutu",
+  "description": "Köle Bot için /kole cagir ve /kole menu komutları (sunucu tarafı).",
+  "license": "MIT",
+  "environment": "server",
+  "mixins": ["kole_komut.mixins.json"],
+  "depends": { "fabricloader": ">=0.18.0", "minecraft": ">=26.1", "java": ">=25" }
+}

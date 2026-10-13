@@ -1,0 +1,9 @@
+node_modules/
+.env
+logs/
+*.log
+bot/data/ruh*.json
+bot/data/korunan.json
+mod/sinif/
+mod/*.jar
+server/
